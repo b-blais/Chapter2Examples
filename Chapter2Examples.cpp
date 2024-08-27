@@ -28,6 +28,6 @@ int main()
     cout << "Your initals are: " << firstInitial << middleInitial << lastInitial << endl;
     cout << "Please enter your first name:";
     cin >> firstName;
-    cout << "Your first name is : " << firstName;
+    cout << "Your first name is: " << firstName;
     return 0;
 }
